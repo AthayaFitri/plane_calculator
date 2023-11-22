@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "2f0ce42f5e559dcc758379cce01906906f19037e0faf5862e94fb6f886f5869b"
+build_start_time: [1699620241, 617709159]
+build_end_time: [1699620343, 38869857]
+inputs:
+  "/Users/athayafitri/Developments/Apps/Mobile/plane_calculator/macos/Flutter/GeneratedPluginRegistrant.swift": [1699620124, 554872989]
+  "/Users/athayafitri/Developments/Apps/Mobile/plane_calculator/macos/Runner/AppDelegate.swift": [1697653338, 0]
+  "/Users/athayafitri/Developments/Apps/Mobile/plane_calculator/macos/Runner/MainFlutterWindow.swift": [1697653338, 0]
